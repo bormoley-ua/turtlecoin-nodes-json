@@ -156,5 +156,12 @@
       "port": 11898,
       "ssl": false
     }
+    ,
+    {
+      "name": "EAST EU free TurtleCoin node,
+      "url": "95.215.159.31",
+      "port": 11898,
+      "ssl": false
+    }
   ]
 }
